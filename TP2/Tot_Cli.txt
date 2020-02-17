@@ -1,0 +1,39 @@
+-Clientes totales por localidad y por provincia:
+
+Provincia: Buenos Aires
+Localidad: El Talar
+Total: 2
+Provincia: Buenos Aires
+Localidad: Pacheco
+Total: 1
+Provincia: Buenos Aires
+Localidad: Pergamino
+Total: 1
+
+Provincia: Buenos Aires
+Total: 4
+
+Provincia: Chaco
+Localidad: Resistencia
+Total: 2
+
+Provincia: Chaco
+Total: 2
+
+Provincia: Cordoba
+Localidad: Cordoba
+Total: 1
+
+Provincia: Cordoba
+Total: 1
+
+Provincia: Santa Fe
+Localidad: Rosario
+Total: 2
+Provincia: Santa Fe
+Localidad: Venado Tuerto
+Total: 1
+
+Provincia: Santa Fe
+Total: 3
+
